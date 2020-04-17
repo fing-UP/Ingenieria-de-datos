@@ -14,9 +14,27 @@
 
 
 •	Veremos lo siguiente:
+
+
+
+
+
 <img src="fotos/ma3.PNG" style="width:500px;" >
 
 •	Bajamos y recorremos la página, hasta encontrar los productos. Escogemos el producto de acuerdo a nuestro sistema operativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="fotos/ma4.PNG" style="width:370px;" >
 
 
@@ -42,6 +60,8 @@
 <img src="fotos/ma7.PNG" style="width:640px;" >
 
 •	Esperamos a que termine de instalarse y damos click a <b>Finish</b>.
+
+
 <img src="fotos/ma8.PNG" style="width:530px;" >
 
 
@@ -49,6 +69,8 @@
 
 
 •	Reiniciamos nuestras terminales.
+
+
 <img src="fotos/ma9.PNG" style="width:500px;" >
 
 
@@ -65,6 +87,9 @@
 <img src="fotos/ma11.PNG" style="width:280px;" >
 •	Nuestro servidor es <a href=https://labvirtual.up.edu.pe/>"labvirtual.up.edu.pe"</a>. Nos conectamos.
 
+
+
+
 <img src="fotos/ma12.PNG" style="width:500px;" >
 
 
@@ -72,6 +97,11 @@
 
 
 •	Ingresamos con nuestras cuentas educativas.
+
+
+
+
+
 <img src="fotos/ma13.PNG" style="width:600px;" >
 
 
