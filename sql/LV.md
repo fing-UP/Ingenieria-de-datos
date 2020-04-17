@@ -47,7 +47,20 @@
 
 •	Seleccionamos la versión más actual. Descargamos.
 
+
+
+
+
+
 <img src="fotos/ma5.PNG" style="width:600px;" >
+
+
+
+
+
+
+
+
 
 
 •	Ejecutamos el paquete descargado.
@@ -57,9 +70,20 @@
 
 
 •	Damos click a <b>Agree & Install</b>
+
+
+
+
+
+
 <img src="fotos/ma7.PNG" style="width:640px;" >
 
+
+
+
+
 •	Esperamos a que termine de instalarse y damos click a <b>Finish</b>.
+
 
 
 <img src="fotos/ma8.PNG" style="width:530px;" >
@@ -84,7 +108,16 @@
 
 
 •	Seleccionamos <b>Add Server</b>.
+
+
+
+
 <img src="fotos/ma11.PNG" style="width:280px;" >
+
+
+
+
+
 •	Nuestro servidor es <a href="https://labvirtual.up.edu.pe/">labvirtual.up.edu.pe</a>. Nos conectamos.
 
 
@@ -106,6 +139,13 @@
 
 
 •	Escogemos cualquier de las instancias que nos hayan indicado.
+
+
+
+
+
+
+
 <img src="fotos/ma14.PNG" style="width:700px;" >
 
 
