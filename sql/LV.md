@@ -120,6 +120,9 @@
 
 •	La próxima vez que ingresemos veremos que se ha quedado grabada nuestra conexión al servidor del laboratorio virtual.
 Solo tenemos que seleccionarlo.
+
+
+
 <img src="fotos/ma15.PNG" style="width:300px;" >
 
 •	Luego, el procedimiento es el mismo que la primera vez. Primero, iniciamos sesión con nuestra cuenta educativa. Segundo, escogemos la instancia del laboratorio virtual.
