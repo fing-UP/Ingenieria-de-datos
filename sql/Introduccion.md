@@ -133,13 +133,15 @@ En caso de error:
 
 I.	Introducción a SQL
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DDL.html">II.	DDL: Data Definition Language</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/GenerarDiagramas.html">II.	Generar Diagramas</a>
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DML.html">III.	DML: Data Manipulation Language</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DDL.html">III.	DDL: Data Definition Language</a>
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CD.html">IV.	Consultas Condicionales</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DML.html">IV.	DML: Data Manipulation Language</a>
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CB.html">V.	Consultas Básicas</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CD.html">V.	Consultas Condicionales</a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CB.html">VI.	Consultas Básicas</a>
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
 
