@@ -145,4 +145,6 @@ I.	Introducción a SQL
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/GenerarDiagramas.html">
+## Consultas y Enuncidaos
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Enunciados&Consultas.html">Consultas y Enunciados</a>
