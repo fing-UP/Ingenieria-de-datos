@@ -238,3 +238,26 @@ END CATCH
 
 ```
 
+## Herramientas Tecnlógicas
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/LV.html">I.   Laboratorio Virtual</a>
+
+## Contenido:
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Introduccion.html">I.	Introducción a SQL</a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/GenerarDiagramas.html">II.	Generar Diagramas</a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DLL.html">III.	DDL: Data Definition Language </a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DML.html">IV.	DML: Data Manipulation Language</a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CD.html">V.	Consultas Condicionales</a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CB.html">VI.	Consultas Básicas</a>
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
+
+## Consultas y Enuncidaos
+
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Enunciados&Consultas.html">Consultas y Enunciados</a>
+
