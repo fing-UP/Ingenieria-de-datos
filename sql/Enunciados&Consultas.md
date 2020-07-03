@@ -257,7 +257,7 @@ END CATCH
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
 
-## Consultas y Enuncidaos
+## Consultas y Enunciados
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Enunciados&Consultas.html">Consultas y Enunciados</a>
 
