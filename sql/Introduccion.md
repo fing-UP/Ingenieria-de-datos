@@ -145,8 +145,4 @@ I.	Introducción a SQL
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
 
-
-
-```python
-
-```
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/GenerarDiagramas.html">
