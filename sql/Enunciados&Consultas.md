@@ -230,7 +230,7 @@ sexo bit not null,
 
 
 BEGIN TRY  
-     insert into Cliente values(2,'rocio','kanashiro','masculino')
+     insert into Cliente values(2,'Stivi','Suenaga','masculino')
 END TRY  
 BEGIN CATCH  
      select ERROR_MESSAGE()
